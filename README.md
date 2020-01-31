@@ -39,6 +39,10 @@ optionally use the file time to track when the file was added.
 * In roon, go to "Storage" and perform a "Force Rescan" on your attached iTunes
   library location.
 
+# Useful Links
+
+* [Related Discussion](https://community.roonlabs.com/t/fixed-my-itunes-library-date-added-to-work-better-with-roon-library-imports/93034)
+
 # Credits
 
 Written by David "nugget" McNett in Go.
