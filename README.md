@@ -44,4 +44,4 @@ optionally use the file time to track when the file was added.
 Written by David "nugget" McNett in Go.
 
 [roon]: https://roonlabs.com
-[releases page]: releases/
+[releases page]: https://github.com/nugget/itunes-file-mtimes/releases
