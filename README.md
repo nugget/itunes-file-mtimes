@@ -41,7 +41,7 @@ optionally use the file time to track when the file was added.
 
 # Useful Links
 
-* [Related Discussion](https://community.roonlabs.com/t/fixed-my-itunes-library-date-added-to-work-better-with-roon-library-imports/93034)
+* [Related Discussion](https://community.roonlabs.com/t/fixed-my-itunes-library-date-added-to-work-better-with-roon-library-imports/93034?u=nugget)
 
 # Credits
 

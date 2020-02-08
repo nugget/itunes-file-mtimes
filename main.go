@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	plist "github.com/DHowett/go-plist"
+	"howett.net/plist"
 )
 
 type ITunes struct {
